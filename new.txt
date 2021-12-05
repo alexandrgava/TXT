@@ -1,6 +1,6 @@
 	name:Gava Alexandr
 	AGE: 53
 	Pets: 2Cats
-	Junior pet":Sobaka
+	Junior pet:Sobaka
 	Senior pet:Direktor
 	desired Salary: bigger is better
